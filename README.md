@@ -33,6 +33,12 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://styled-components.com/logo.png"></code>
+<code><img height="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pxtPw7Yd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://remix.run/static/icons/favicon-32x32.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" src="https://jestjs.io/img/jest.svg"></code>
 
 📊 **this week I spent my time on:**
 
