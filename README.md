@@ -38,7 +38,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/storybookjs/brand/master/icon/icon.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/storybookjs/brand/master/icon/icon-storybook-default.svg"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Javascript-logo.png"></code>
