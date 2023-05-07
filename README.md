@@ -16,7 +16,7 @@ hi, i'm [Arthur Kyambadde](https://www.arthurkyambadde.com/), a passionate self-
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/arthurkyambadde/arthurkyambadde/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:arthurkyambadde9.com) :)
 - 💬 ask me about anything, I am happy to help;
