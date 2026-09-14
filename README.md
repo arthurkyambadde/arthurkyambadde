@@ -1,72 +1,69 @@
-### Hello there
+<div align="center">
 
-<a href="discordapp.com/users/arthurkyambadde#9921">
-  <img align="left" alt="Arthur's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/artkyamvadde">
-  <img align="left" alt="Arthur Kyambadde | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arthur-kyambadde-904960101/">
-  <img align="left" alt="Arthur Kyambadde" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+# Arthur Kyambadde
 
-<br />
+### Frontend & Full-Stack Software Engineer
 
-hi, i'm [Arthur Kyambadde](https://www.arthurkyambadde.com/), a passionate self-taught frontend web developer and a freelance software engineer from Uganda. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I build accessible, responsive, and maintainable digital products—from polished interfaces to complete web applications.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-kyambadde-904960101/)
+[![X](https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/artkyamvadde)
 
-  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:arthurkyambadde9.com) :)
-- 💬 ask me about anything, I am happy to help;
+</div>
 
-**languages and tools:**
+## About Me
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://styled-components.com/logo.png"></code>
-<code><img height="50" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4"></code>
-<code><img height="50" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="50" src="https://jestjs.io/img/jest.svg"></code>
-<code><img height="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code><code><img height="50" src="https://raw.githubusercontent.com/storybookjs/brand/master/icon/icon-storybook-default.svg"></code><code><img height="50" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code><code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></code>
+I'm a software engineer based in Kampala, Uganda, focused on turning ideas into fast, intuitive, and dependable products.
 
-📊 **this week I spent my time on:**
+My core work spans frontend engineering and full-stack JavaScript development, with particular attention to user experience, application architecture, accessibility, and code quality.
 
-<!--START_SECTION:waka-->
+- Building modern web experiences with React, Next.js, and TypeScript
+- Developing full-stack applications with Node.js, databases, and cloud services
+- Exploring embedded systems and C/C++ alongside web engineering
+- Available for freelance projects and collaborative product work
 
-```text
-JSON         1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   40.75 %
-JavaScript   53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
-TypeScript   53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-```
+## Featured Work
 
-<!--END_SECTION:waka-->
+| Project | What It Demonstrates | Stack | Links |
+| --- | --- | --- | --- |
+| **Real-Time Messaging App** | Responsive direct and group messaging, optimistic updates, presence indicators, persistent state, and accessible keyboard interactions | React, Redux Toolkit, Vite | [Code](https://github.com/arthurkyambadde/chatapplication) · [Live Demo](https://chatapplication-azure-rho.vercel.app) |
+| **Fintech Dashboard** | A data-rich financial dashboard with authentication, validated forms, charts, motion, and scalable application architecture | Next.js, TypeScript, Prisma, Recharts | [Code](https://github.com/arthurkyambadde/fintechdashboard) |
+| **Health App** | A responsive health-focused dashboard with application state management and data visualisation | React, TypeScript, Redux Toolkit, Chart.js | [Code](https://github.com/arthurkyambadde/healthapp) · [Live Demo](https://healthapp-pi-eight.vercel.app) |
+| **Logistics Map** | An interactive mapping experience for location-based and logistics interfaces | React, Leaflet, Vite | [Code](https://github.com/arthurkyambadde/logisticsmap) · [Live Demo](https://logisticsmap.vercel.app) |
+| **Education LMS** | A modern learning-management interface built for clear navigation and responsive delivery | Next.js, React, Tailwind CSS | [Code](https://github.com/arthurkyambadde/educationlms) · [Live Demo](https://educationlms-blush.vercel.app) |
 
-if you like what i do, maybe consider buying me a reaching out to me 🥺👉👈
+## Technical Toolkit
 
-<a href="https://www.arthurkyambadde.com/contact" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+**Frontend**
 
-🚧 **my todoist stats:**
+JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS and Redux Toolkit
 
-<!-- TODO-IST:START -->
+**Backend and Data**
 
-🏆 7,995 Karma Points  
-🌸 Completed 0 tasks today  
-✅ Completed 673 tasks so far  
-⏳ Longest streak is 10 days
+Node.js, Prisma, MySQL, Firebase and REST APIs
 
-<!-- TODO-IST:END -->
+**Engineering Tools**
 
-📈 my github stats
+Git, GitHub Actions, Jest, Storybook, responsive design and accessibility
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arthurkyambadde&show_icons=true&theme=gotham" alt="arthurkyambadde" />
+**Additional Interests**
+
+Go, C/C++ and embedded systems
+
+## How I Work
+
+I care about interfaces that feel natural, architecture that remains understandable as products grow, and code that other developers can confidently maintain.
+
+I enjoy collaborating with clients and teams that value thoughtful execution, clear communication, and measurable product outcomes.
+
+## Let's Build Something Useful
+
+I'm open to freelance engagements, product collaborations, and software engineering opportunities.
+
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/arthur-kyambadde-904960101/).
+
+<div align="center">
+
+<sub>Based in Kampala, Uganda · Working with clients and teams worldwide</sub>
+
+</div>
